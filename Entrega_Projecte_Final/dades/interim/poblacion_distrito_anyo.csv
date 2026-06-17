@@ -1,0 +1,151 @@
+Codi_Districte,Nom_Districte,Any,poblacion
+1,Ciutat Vella,2010,104664
+1,Ciutat Vella,2011,103569
+1,Ciutat Vella,2012,104357
+1,Ciutat Vella,2013,103311
+1,Ciutat Vella,2014,100700
+1,Ciutat Vella,2015,100169
+1,Ciutat Vella,2016,100373
+1,Ciutat Vella,2017,102165
+1,Ciutat Vella,2018,102047
+1,Ciutat Vella,2019,105733
+1,Ciutat Vella,2020,108248
+1,Ciutat Vella,2021,109672
+1,Ciutat Vella,2022,106028
+1,Ciutat Vella,2023,106446
+1,Ciutat Vella,2024,111155
+2,Eixample,2010,265714
+2,Eixample,2011,264296
+2,Eixample,2012,265593
+2,Eixample,2013,264967
+2,Eixample,2014,263564
+2,Eixample,2015,263557
+2,Eixample,2016,264568
+2,Eixample,2017,267270
+2,Eixample,2018,266839
+2,Eixample,2019,269173
+2,Eixample,2020,270772
+2,Eixample,2021,269349
+2,Eixample,2022,266857
+2,Eixample,2023,268824
+2,Eixample,2024,274636
+3,Sants-Montjuïc,2010,182977
+3,Sants-Montjuïc,2011,182733
+3,Sants-Montjuïc,2012,183970
+3,Sants-Montjuïc,2013,182741
+3,Sants-Montjuïc,2014,180833
+3,Sants-Montjuïc,2015,180813
+3,Sants-Montjuïc,2016,181187
+3,Sants-Montjuïc,2017,182381
+3,Sants-Montjuïc,2018,182210
+3,Sants-Montjuïc,2019,185481
+3,Sants-Montjuïc,2020,187615
+3,Sants-Montjuïc,2021,187026
+3,Sants-Montjuïc,2022,183770
+3,Sants-Montjuïc,2023,185963
+3,Sants-Montjuïc,2024,191391
+4,Les Corts,2010,82750
+4,Les Corts,2011,82337
+4,Les Corts,2012,82357
+4,Les Corts,2013,81711
+4,Les Corts,2014,81196
+4,Les Corts,2015,81529
+4,Les Corts,2016,81708
+4,Les Corts,2017,82201
+4,Les Corts,2018,82182
+4,Les Corts,2019,82591
+4,Les Corts,2020,82635
+4,Les Corts,2021,81576
+4,Les Corts,2022,81074
+4,Les Corts,2023,82154
+4,Les Corts,2024,83551
+5,Sarrià-Sant Gervasi,2010,144485
+5,Sarrià-Sant Gervasi,2011,144355
+5,Sarrià-Sant Gervasi,2012,145269
+5,Sarrià-Sant Gervasi,2013,145515
+5,Sarrià-Sant Gervasi,2014,145773
+5,Sarrià-Sant Gervasi,2015,146848
+5,Sarrià-Sant Gervasi,2016,148172
+5,Sarrià-Sant Gervasi,2017,149734
+5,Sarrià-Sant Gervasi,2018,149837
+5,Sarrià-Sant Gervasi,2019,150446
+5,Sarrià-Sant Gervasi,2020,151157
+5,Sarrià-Sant Gervasi,2021,149201
+5,Sarrià-Sant Gervasi,2022,148201
+5,Sarrià-Sant Gervasi,2023,149804
+5,Sarrià-Sant Gervasi,2024,151890
+6,Gràcia,2010,122978
+6,Gràcia,2011,121483
+6,Gràcia,2012,121831
+6,Gràcia,2013,120997
+6,Gràcia,2014,120283
+6,Gràcia,2015,120445
+6,Gràcia,2016,121088
+6,Gràcia,2017,121772
+6,Gràcia,2018,121789
+6,Gràcia,2019,123060
+6,Gràcia,2020,123852
+6,Gràcia,2021,123276
+6,Gràcia,2022,121915
+6,Gràcia,2023,122928
+6,Gràcia,2024,125787
+7,Horta-Guinardó,2010,170757
+7,Horta-Guinardó,2011,169764
+7,Horta-Guinardó,2012,168984
+7,Horta-Guinardó,2013,167800
+7,Horta-Guinardó,2014,166924
+7,Horta-Guinardó,2015,166530
+7,Horta-Guinardó,2016,167390
+7,Horta-Guinardó,2017,168981
+7,Horta-Guinardó,2018,170053
+7,Horta-Guinardó,2019,172266
+7,Horta-Guinardó,2020,174598
+7,Horta-Guinardó,2021,173944
+7,Horta-Guinardó,2022,172109
+7,Horta-Guinardó,2023,175550
+7,Horta-Guinardó,2024,180138
+8,Nou Barris,2010,168080
+8,Nou Barris,2011,167621
+8,Nou Barris,2012,167334
+8,Nou Barris,2013,165809
+8,Nou Barris,2014,164514
+8,Nou Barris,2015,164637
+8,Nou Barris,2016,164971
+8,Nou Barris,2017,166805
+8,Nou Barris,2018,168327
+8,Nou Barris,2019,171290
+8,Nou Barris,2020,174012
+8,Nou Barris,2021,173552
+8,Nou Barris,2022,170736
+8,Nou Barris,2023,174215
+8,Nou Barris,2024,179590
+9,Sant Andreu,2010,146988
+9,Sant Andreu,2011,147353
+9,Sant Andreu,2012,147397
+9,Sant Andreu,2013,146949
+9,Sant Andreu,2014,145998
+9,Sant Andreu,2015,146512
+9,Sant Andreu,2016,146800
+9,Sant Andreu,2017,147789
+9,Sant Andreu,2018,148653
+9,Sant Andreu,2019,150353
+9,Sant Andreu,2020,152063
+9,Sant Andreu,2021,151537
+9,Sant Andreu,2022,149826
+9,Sant Andreu,2023,151799
+9,Sant Andreu,2024,155470
+10,Sant Martí,2010,230220
+10,Sant Martí,2011,231078
+10,Sant Martí,2012,232738
+10,Sant Martí,2013,233035
+10,Sant Martí,2014,232665
+10,Sant Martí,2015,233660
+10,Sant Martí,2016,234170
+10,Sant Martí,2017,236039
+10,Sant Martí,2018,236999
+10,Sant Martí,2019,239965
+10,Sant Martí,2020,241578
+10,Sant Martí,2021,241181
+10,Sant Martí,2022,239465
+10,Sant Martí,2023,242752
+10,Sant Martí,2024,249206
