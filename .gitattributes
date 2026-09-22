@@ -1,0 +1,2 @@
+# GitHub language stats: notebooks are Python
+*.ipynb linguist-language=Python
